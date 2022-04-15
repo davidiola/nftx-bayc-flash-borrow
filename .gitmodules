@@ -4,9 +4,9 @@
 [submodule "lib/protocol-v2"]
 	path = lib/protocol-v2
 	url = https://github.com/aave/protocol-v2
-[submodule "lib/hardhat"]
-	path = lib/hardhat
-	url = https://github.com/NomicFoundation/hardhat
 [submodule "lib/forge-std"]
 	path = lib/forge-std
 	url = https://github.com/foundry-rs/forge-std
+[submodule "lib/nftx-protocol-v2"]
+	path = lib/nftx-protocol-v2
+	url = https://github.com/NFTX-project/nftx-protocol-v2
