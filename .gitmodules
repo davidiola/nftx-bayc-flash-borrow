@@ -7,3 +7,6 @@
 [submodule "lib/hardhat"]
 	path = lib/hardhat
 	url = https://github.com/NomicFoundation/hardhat
+[submodule "lib/forge-std"]
+	path = lib/forge-std
+	url = https://github.com/foundry-rs/forge-std
