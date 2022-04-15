@@ -4,3 +4,6 @@
 [submodule "lib/protocol-v2"]
 	path = lib/protocol-v2
 	url = https://github.com/aave/protocol-v2
+[submodule "lib/hardhat"]
+	path = lib/hardhat
+	url = https://github.com/NomicFoundation/hardhat
