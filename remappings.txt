@@ -1,0 +1,2 @@
+nftx/=lib/nftx-protocol-v2/contracts/solidity
+uni/=lib/v2-periphery/contracts
